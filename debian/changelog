@@ -1,3 +1,9 @@
+exabgp (3.4.13-1~precise0+exo1) precise; urgency=medium
+
+  * Backport for Precise.
+
+ -- Vincent Bernat <bernat@debian.org>  Thu, 05 Nov 2015 22:09:55 +0100
+
 exabgp (3.4.13-1) unstable; urgency=medium
 
   * New upstream release.
